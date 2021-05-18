@@ -72,3 +72,8 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+secret.txt
+git rm --cached secret.txt
+fixes-test>git rm --cached secret.txt
+rm 'secret.txt'
